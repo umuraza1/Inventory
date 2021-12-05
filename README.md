@@ -1,5 +1,5 @@
-Group 11 Members
-Umuraza Angelique 220004639
-Mutuyimana Aline 220005450
-Ishimwe Gad 220006526
+Group 11 Members<br>
+Umuraza Angelique 220004639<br>
+Mutuyimana Aline 220005450<br>
+Ishimwe Gad 220006526<br>
 Our Project is Supermarket INventory Management SYstem 
